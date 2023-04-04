@@ -7,3 +7,7 @@ This repo contains all the notes that I would like to remember about Julia Progr
 
 # What to Expect
 This repo will provide basic, intermediate as well as advanced understanding of the things found in Julia. It will also include simple projects using Julia and ML projects using Julia
+
+
+# UPDATE
+This repo is currently not being updated for the time being. It shall however be updated once the maintainer has enough time
