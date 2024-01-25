@@ -11,3 +11,8 @@ This repo will provide basic, intermediate as well as advanced understanding of 
 
 # UPDATE
 This repo is currently not being updated for the time being. It shall however be updated once the maintainer has enough time
+
+LICENSE
+© 2022 Akebu
+
+This repository is licensed under the MIT license. See [LICENSE](https://github.com/akebu6/Julia-Notes/blob/main/LICENSE) for details.
