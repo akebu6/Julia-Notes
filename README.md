@@ -1,3 +1,5 @@
+![Banner](https://appinventiv.com/wp-content/uploads/sites/1/2019/08/Introducing-Julia-The-Top-Programming-Language-for-Machine-Learning-Development.png)
+
 # Julia Programming Language Notes
 This repo contains all the notes that I would like to remember about Julia Programming Language and can be used by anyone
 
